@@ -10,13 +10,9 @@ Nguồn tin: https://vnexpress.net
 * Tôc độ ổn định
 
 ## Screenshots
-![Capture](https://user-images.githubusercontent.com/62129407/127663813-34b233ba-b5b0-4267-b9ea-0d317b2e8d53.PNG)
-![Capture2](https://user-images.githubusercontent.com/62129407/127663821-75ce0c2f-d268-4cea-ae69-3f7fa8b6357c.PNG)
-![Capture3](https://user-images.githubusercontent.com/62129407/127663835-b5dd09bd-4d75-4134-902b-9552c8bbefee.PNG)
-
+<img src="https://user-images.githubusercontent.com/62129407/127663813-34b233ba-b5b0-4267-b9ea-0d317b2e8d53.PNG" width="30%" height="30%">  <img src="https://user-images.githubusercontent.com/62129407/127663821-75ce0c2f-d268-4cea-ae69-3f7fa8b6357c.PNG" width="30%" height="30%"> <img src="https://user-images.githubusercontent.com/62129407/127663835-b5dd09bd-4d75-4134-902b-9552c8bbefee.PNG" width="30%" height="30%">
 
 ## Demo
-
 https://user-images.githubusercontent.com/62129407/127663878-b9319966-1c57-4f26-8d13-b1903e6056c6.mp4
 
 
