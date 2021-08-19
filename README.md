@@ -9,6 +9,12 @@ Nguồn tin: https://vnexpress.net
 * Nguồn tin tin cậy
 * Tôc độ ổn định
 
+## Thư viện
+* XMLDomParser
+* Recycler Adapter
+* Picasso API
+* ...
+
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/62129407/127663813-34b233ba-b5b0-4267-b9ea-0d317b2e8d53.PNG" width="30%" height="30%">  <img src="https://user-images.githubusercontent.com/62129407/127663821-75ce0c2f-d268-4cea-ae69-3f7fa8b6357c.PNG" width="30%" height="30%"> <img src="https://user-images.githubusercontent.com/62129407/127663835-b5dd09bd-4d75-4134-902b-9552c8bbefee.PNG" width="30%" height="30%">
 
